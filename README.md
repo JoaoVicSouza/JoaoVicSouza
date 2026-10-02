@@ -31,7 +31,7 @@
 
 ---
 
-🧠 O que eu faço
+## 🧠 O que eu faço
 
 - 🌐 Desenvolvimento Web (HTML, CSS, JavaScript e Bootstrap)
 - ⚙️ Back-End (PHP)

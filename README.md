@@ -33,13 +33,13 @@
 
 🧠 O que eu faço
 
--🌐 Desenvolvimento Web (HTML, CSS, JavaScript e Bootstrap)
--⚙️ Back-End (PHP)
--🗄️ Infraestrutura & Banco de Dados (Modelagem MySQL e configuração de servidores)
--🤖 Integração de APIs (Conexão de sistemas com IA, como a API do Gemini)
--🎓 Educação Tecnológica (Elaboração de minicursos e oficinas práticas)
+- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript e Bootstrap)
+- ⚙️ Back-End (PHP)
+- 🗄️ Infraestrutura & Banco de Dados (Modelagem MySQL e configuração de servidores)
+- 🤖 Integração de APIs (Conexão de sistemas com IA, como a API do Gemini)
+- 🎓 Educação Tecnológica (Elaboração de minicursos e oficinas práticas)
 
---
+---
 
 ## 🛠️ Tech Stack
 

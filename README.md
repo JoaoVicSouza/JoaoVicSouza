@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://gopad.pas.ifsuldeminas.edu.br">
-    <img src="https://img.shields.io/badge/GOPAD-Website-0077B5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GOPAD-Website-FFB900?style=for-the-badge" />
   </a>
 </p>
 
